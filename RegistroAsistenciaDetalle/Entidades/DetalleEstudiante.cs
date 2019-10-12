@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace RegistroAsistenciaDetalle.Entidades
 {
-    public class DetalleEstudiante
+    public class DetalleEstudiante //
     {
         [key]
         public int id { get; set; }
